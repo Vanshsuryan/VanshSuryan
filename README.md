@@ -19,14 +19,14 @@
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Vansh Suryan;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Computer+Science+Engineer;Backend+and+Frontend+Developer;Hardworking+and+Ambitious;Graphics+Designer;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Vansh+Suryan;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Computer+Science+Engineer;Backend+and+Frontend+Developer;Hardworking+and+Ambitious;Graphics+Designer;Music+and+Programming+Lover" alt="Typing SVG" />
+      </a>
   </div>
 </div>
 
 <details>
 <summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
 <div align="left">
 
@@ -48,6 +48,7 @@
  *
  * @returns {Object} Vansh.
  */
+
 ```
 
 </div>
